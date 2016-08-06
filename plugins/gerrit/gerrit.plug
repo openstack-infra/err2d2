@@ -1,0 +1,9 @@
+[Core]
+Name = gerrit
+Module = gerrit
+
+[Documentation]
+Description = This plugin echos and formats and filters gerrit events.
+
+[Python]
+Version = 3+
