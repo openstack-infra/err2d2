@@ -1,0 +1,8 @@
+Code-Review+2: Joshua Harlow <jxharlow@godaddy.com>
+Workflow+1: Joshua Harlow <jxharlow@godaddy.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 06 Aug 2016 19:13:51 +0000
+Reviewed-on: https://review.openstack.org/349698
+Project: openstack-infra/err2d2
+Branch: refs/heads/master
